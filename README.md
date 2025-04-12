@@ -22,7 +22,7 @@ Desenvolver uma API de um sistema simples de compras com carrinho. O sistema dev
 - Mostrar os itens atuais do carrinho
 - Especificar quantas unidades de X item o Usuario quer no carrinho
 - Ao mostrar os itens, deve ser possível verificar quanto cada pacote de itens está custando.
-- Exemplo de resultado final:
+- Exemplo de resultado final(ignorem o atributo imagens):
 
 ![image](https://github.com/user-attachments/assets/d3266951-820e-4792-b094-ce847aed9a87)
 
