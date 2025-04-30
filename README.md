@@ -32,6 +32,17 @@ Desenvolver uma API de um sistema simples de compras com carrinho. O sistema dev
 - Springboot
 - JPA
 
+## Testes dos Endpoints
+Aqui estão os endpoints recomendadas para o teste, e mesmo que siga elas, ainda é necessário documentar seu código. Caso queira fazer seus próprios, não tem problema, basta documenta-las para realizar-mos o teste.
+- POST /produto/save (criar produto)
+- PUT /produto/{id}/update (atualizar produto)
+- GET /produto/{id} (busca um produto)
+- GET /produto/all (busca todos os produto)
+- DELETE /produto/{id}/delete (deletar produto)
+- POST /carrinho/addProduto/{id}?quantidade={quantidade} (adicionar produto no carrinho)
+- DELETE /carrinho/removerProduto/1?quantidade={quantidade} (remover produto do carrinho)
+- DELETE /carrinho/limpar (remover todos os produtos do carrinho)
+- GET /carrinho/mostrar (busca o carrinho)
 
 TESTE FRONTEND
 ---------------
