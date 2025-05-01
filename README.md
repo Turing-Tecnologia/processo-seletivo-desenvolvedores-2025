@@ -11,6 +11,7 @@ Bem vindos ao processo seletivo para desenvolvedores da Turing Tecnologia, prime
 - Comente de forma breve sobre o que realizou no projeto
 - Adicione Instruções de como rodar o seu projeto em localhost
 - Faça um Pull Request para o mesmo repositório.
+- Finalize o projeto até dia 11/05
 ## Sobre o projeto para o teste :
 TESTE BACKEND
 --------------------
