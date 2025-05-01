@@ -58,6 +58,6 @@ Desenvolver a sua própria Landing Page ou Portifólio falando sobre você, conq
 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
 
 Grupo no Whatsapp para duvidas
-https://chat.whatsapp.com/F5v29wmEyyIDAeQhkaD6eM
+https://chat.whatsapp.com/DgnqcGmp8FOJPGqwlD3hFD
 
 Vamo Codar! <3
